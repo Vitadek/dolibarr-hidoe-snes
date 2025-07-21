@@ -1,0 +1,42 @@
+# Translation file
+
+#
+# Generic
+#
+
+# Module label 'ModuleMealPlannerName'
+ModuleMealPlannerName = MealPlanner
+# Module description 'ModuleMealPlannerDesc'
+ModuleMealPlannerDesc = MealPlanner description
+
+#
+# Admin page
+#
+MealPlannerSetup = MealPlanner setup
+Settings = Settings
+MealPlannerSetupPage = MealPlanner setup page
+NewSection=New section
+MEALPLANNER_MYPARAM1 = My param 1
+MEALPLANNER_MYPARAM1Tooltip = My param 1 tooltip
+MEALPLANNER_MYPARAM2=My param 2
+MEALPLANNER_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+MealPlannerAbout = About MealPlanner
+MealPlannerAboutPage = MealPlanner about page
+
+#
+# Sample page
+#
+MealPlannerArea = Home MealPlanner
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
